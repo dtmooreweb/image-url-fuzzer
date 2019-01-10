@@ -15,5 +15,9 @@ The script is intended to be run directly through the command line as such:
 
 ## Example output
 
+In the image example (which is also the default in the code) we are searching for a '.jpg' image on 'https://acererak.com/' with a two character alphanumeric name.
+
+Please note, even with multi-threading and a powerful server, the less specific your query - the longer the script will take to run.
+
 ![Image of example output](https://i.imgur.com/6fgU2fR.png)
 
